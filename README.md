@@ -82,7 +82,7 @@ Goal:
 
 # 📈 GitHub Statistics
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReddamJaswanth&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=REDAMJASWANTH&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDAMJASWANTH&layout=compact&theme=tokyonight"/> </p>
 
 
 ---
@@ -91,7 +91,7 @@ Goal:
 
 <p align="center">
 
-<img src="<img src="https://streak-stats.demolab.com?user=ReddamJaswanth&theme=tokyonight"/>"/>
+<img src="<img src="https://streak-stats.demolab.com?user=REDAMJASWANTH&theme=tokyonight"/>"/>
 
 </p>
 
@@ -101,7 +101,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ReddamJaswanth&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=REDAMJASWANTH&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -128,7 +128,7 @@ https://www.linkedin.com/in/jaswanth-reddam/
 jaanujaswanth4@gmail.com
 
 🐙 GitHub
-https://github.com/ReddamJaswanth
+https://github.com/REDDAMJASWANTH
 
 ---
 
