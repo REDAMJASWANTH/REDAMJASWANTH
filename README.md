@@ -3,8 +3,7 @@
 # 👋 Hi, I'm Jaswanth
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReddamJaswanth" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ReddamJaswanth&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></p>
 
 ### 🤖 AI & Machine Learning Engineer in Progress
 
@@ -83,7 +82,7 @@ Goal:
 
 # 📈 GitHub Statistics
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReddamJaswanth&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/> </p>
 
 
 ---
@@ -92,7 +91,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=REDAM JASWANTH&theme=tokyonight"/>
+<img src="<img src="https://streak-stats.demolab.com?user=ReddamJaswanth&theme=tokyonight"/>"/>
 
 </p>
 
@@ -102,7 +101,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ReddamJaswanth&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -123,10 +122,13 @@ Goal:
 # 🌐 Connect With Me
 
 💼 LinkedIn
+https://www.linkedin.com/in/jaswanth-reddam/
 
 📧 Email
+jaanujaswanth4@gmail.com
 
 🐙 GitHub
+https://github.com/ReddamJaswanth
 
 ---
 
