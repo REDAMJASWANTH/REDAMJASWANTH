@@ -91,7 +91,7 @@ Goal:
 
 <p align="center">
 
-<img src="<img src="https://streak-stats.demolab.com?user=REDAMJASWANTH&theme=tokyonight"/>"/>
+<img src="https://streak-stats.demolab.com?user=REDAMJASWANTH&theme=tokyonight"/>
 
 </p>
 
@@ -140,9 +140,11 @@ Goal:
 
 <div align="center">
 
-## 💭 Quote
+## 💡 Random Dev Quote
 
-### *"Learn. Build. Share. Repeat."*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ⭐ Thanks for visiting my profile!
 
