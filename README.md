@@ -1,88 +1,142 @@
+<div align="center">
+
 # 👋 Hi, I'm Jaswanth
 
-🚀 **Aspiring AI & Machine Learning Engineer** | 🐍 Python Developer | 📊 Data Science Enthusiast
+### 🤖 AI & Machine Learning Engineer in Progress
 
-I'm passionate about building intelligent applications using **Python, Machine Learning, Data Analysis, and AI**. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills through hands-on projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;Future+AI+Engineer;Always+Learning+New+Things" />
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-## 💡 About Me
-
-* 🎓 MCA Graduate
-* 🤖 Learning Artificial Intelligence & Machine Learning
-* 🐍 Strong interest in Python Programming
-* 📊 Exploring Data Science & Data Analytics
-* 📚 Currently learning Scikit-learn, Pandas, NumPy, Matplotlib & SQL
-* 🌱 Always learning something new every day
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### Programming
+```yaml
+Name: Jaswanth
 
-* Python
-* SQL
+Education:
+  - MCA Graduate
 
-### Data Science
+Current Focus:
+  - Python
+  - Machine Learning
+  - Artificial Intelligence
+  - Data Science
 
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
+Currently Learning:
+  - Scikit-learn
+  - Pandas
+  - NumPy
+  - SQL
+  - Git & GitHub
 
-### Machine Learning
-
-* Regression
-* Classification
-* Model Evaluation
-* Data Preprocessing
-* Feature Engineering
-
-### Tools
-
-* Jupyter Notebook
-* VS Code
-* Git
-* GitHub
+Goal:
+  - Become an AI & Machine Learning Engineer
+```
 
 ---
 
-## 📈 Currently Working On
+# ⚙️ Tech Stack
 
-* Machine Learning Projects
-* Data Analysis Projects
-* Python Automation
-* Building my AI Portfolio
+### 💻 Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-## 🎯 Goals for 2026
+### 📊 Data Science
 
-* ✅ Master Python
-* ✅ Become an AI & Machine Learning Engineer
-* ✅ Build 20+ Real-World Projects
-* ✅ Contribute to Open Source
-* ✅ Land a Software/AI Developer Role
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 
-## 📊 GitHub Stats
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+### 🛠 Tools
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
----
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
-## 🌐 Connect With Me
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
 
 ---
 
-> **"Every expert was once a beginner. Keep learning, keep building."** 🚀
+# 🚀 Current Journey
+
+* 🌱 Mastering Python
+* 🤖 Building Machine Learning Projects
+* 📊 Exploring Data Science
+* 💡 Learning AI Technologies
+* 📚 Practicing DSA
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+⭐ Machine Learning Projects
+
+⭐ Data Analysis Projects
+
+⭐ Python Automation
+
+⭐ AI Applications
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn
+
+📧 Email
+
+🐙 GitHub
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+### *"Learn. Build. Share. Repeat."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
