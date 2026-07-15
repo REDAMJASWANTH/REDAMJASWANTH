@@ -2,6 +2,10 @@
 
 # 👋 Hi, I'm Jaswanth
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ReddamJaswanth" alt="Profile Views" />
+</p>
+
 ### 🤖 AI & Machine Learning Engineer in Progress
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;Future+AI+Engineer;Always+Learning+New+Things" />
